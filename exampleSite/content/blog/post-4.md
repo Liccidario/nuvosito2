@@ -1,11 +1,10 @@
 ---
 title: Ciao
 description: meta description
-image: post-4.png
+image: images/post/post-4.png
 date: 2021-01-24T18:19:25.000+06:00
 categories:
 - github
-- youtube
 type: featured
 
 ---
