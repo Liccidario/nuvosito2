@@ -1,29 +1,10 @@
 {{ define "main" }}
 
 <!--=================== contact section start ===================-->
-{{ $bgImage:= resources.Get "images/map.png" }}
-    {{ $bgImage:= $bgImage.Resize "1400x webp" }}
-
-<form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
+<form name="formcontatti" method="post" autocomplete="off" action="/conferma" onsubmit="return validateForm()"><input type="hidden" name="form-name" value="formcontatti"><div class="hidden"><label>NON riempire questo spazio se SEI UMANO: <input name="bot-field"></label></div><div><label for="name">Il tuo nome</label>
+  <input type="text" name="nome" id="name"></div><div><label for="email">Il tuo indirizzo email</label>
+  <input type="email" name="email" id="email"></div><div><label for="message">Messaggio</label>
+  <textarea name="messaggio" id="message"></textarea></div><button type="submit" style="width:100%">INVIA</button></form>
 
 
 
