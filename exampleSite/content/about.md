@@ -1,5 +1,5 @@
 ---
-title: "About The Author"
+title: "Chi sono"
 description: "this is meta-description"
 image: "images/author.png"
 layout: "about"
