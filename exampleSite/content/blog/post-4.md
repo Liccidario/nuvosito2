@@ -1,7 +1,7 @@
 ---
 title: Ciao
 description: meta description
-image: html_z3u9c4-sharpened-1.jpg
+image: post-4.png
 date: 2021-01-24T18:19:25.000+06:00
 categories:
 - github
