@@ -1,5 +1,5 @@
 ---
-title: "Chi sono"
+title: "Cazzo vuoi"
 description: "this is meta-description"
 image: "images/author.png"
 layout: "about"
