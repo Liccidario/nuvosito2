@@ -2,8 +2,8 @@
 baseURL = "https://demo.gethugothemes.com/geeky/"
 title = "Geeky | Hugo Personal Blog Template"
 theme = "geeky-hugo"
-languageName = "En"
-languageCode = "en-us"
+languageName = "It"
+languageCode = "it-IT"
 # post pagination
 paginate = "6"
 # post excerpt
