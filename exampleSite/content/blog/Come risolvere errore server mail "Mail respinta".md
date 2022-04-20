@@ -17,7 +17,7 @@ Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 #### Password per app!
-Se avete attivato l'autenticazione a due fattori, con google autenicator o simili, bisogna impostare una password per app!
+___Se avete attivato l'autenticazione a due fattori, con google autenicator o simili, bisogna impostare una password per app!
 
 
 {{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/password.png" alt="alter-text" >}}
