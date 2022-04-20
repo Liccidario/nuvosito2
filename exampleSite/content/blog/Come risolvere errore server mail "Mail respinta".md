@@ -20,6 +20,6 @@ Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu
 ___Se avete attivato l'autenticazione a due fattori, con google autenicator o simili, bisogna impostare una password per app!
 
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/password.png" alt="alter-text" >}}
+{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="https://res.cloudinary.com/liccidario-com/image/upload/v1635507952/sito/hello_tbnylj.jpg" alt="alter-text" >}}
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
