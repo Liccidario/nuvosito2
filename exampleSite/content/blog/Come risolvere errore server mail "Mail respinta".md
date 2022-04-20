@@ -1,7 +1,7 @@
 ---
 title:  
 description: meta description
-image: images/post/errore mail.jpg
+image: images/post/mail.jpg
 date: 2021-01-24T18:19:25.000+06:00
 categories:
 - Email
