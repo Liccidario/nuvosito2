@@ -1,7 +1,7 @@
 ---
 title:  Thunderbird 
 description: meta description
-image: images/post/mail.jpg
+image: images/post/mail.png
 date: 2021-01-24T18:19:25.000+06:00
 categories:
 - Email
